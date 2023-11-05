@@ -5,4 +5,5 @@ This repo is made solely for the DES323 Multi-Platform Software Development clas
 Please always run
 
 `python manage.py makemigrations`
+
 `python manage.py migrate`
